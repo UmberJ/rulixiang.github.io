@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "汝理想 (Lixiang Ru)"
 resume_title:                   "计算机科学-硕士研究生"
 
