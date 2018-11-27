@@ -5,11 +5,13 @@
 
 # Communications strategy
 - skill: 数学
-  description: 具有良好的微积分、线性代数、概率论和数理统计基础，曾获全国大学生数学竞赛湖北省赛区一等奖。
+  description: 具有良好的微积分、线性代数、概率论和数理统计基础
+  #，曾获全国大学生数学竞赛湖北省赛区一等奖。
 
 - skill: 计算机视觉
   description: 掌握主流计算机视觉算法和应用；并熟练掌握使用Tensorflow、Keras等框架，对其余主流框架，如Caffe等有良好的认识。
 
 - skill: 其它
-  description: 英语四、六级，数学建模比赛奖励多项。
+  description: 英语四、六级
+  #，数学建模比赛奖励多项。
 
