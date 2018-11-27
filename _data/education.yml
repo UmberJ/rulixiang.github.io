@@ -11,5 +11,6 @@
   uni: 武汉大学
   year: 2014.09 &mdash; 2018.06
   awards: 
-    - award: GPA:&nbsp&nbsp3.67/4.0;&nbsp&nbsp&nbsp&nbspRank:&nbsp&nbsp20-th
+    - award: GPA:&nbsp&nbsp3.67/4.0;
+    #&nbsp&nbsp&nbsp&nbspRank:&nbsp&nbsp20-th
   #summary: You can choose to have either a single or multiple awards
